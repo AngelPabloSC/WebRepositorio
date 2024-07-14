@@ -1,0 +1,20 @@
+{
+  "name": "clase1express",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "server": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "http-errors": "~1.6.3",
+    "jade": "^1.11.0",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1",
+    "morgan": "~1.9.1",
+    "pug": "^3.0.3"
+  }
+}
